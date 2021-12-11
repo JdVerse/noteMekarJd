@@ -1,0 +1,28 @@
+#notes
+{
+    margin-left: -24px;
+}
+.card
+{
+    margin-left: -3px;
+}
+#notes .card
+{
+    margin-top: 4px;
+    margin-left: 65px;
+}
+#addTitle
+{
+    padding-left: 15px;
+}
+
+@media (max-width: 450px) {
+    #addTitle {
+      width: 300px;
+    }
+    #notes .card
+{
+    margin-top: 4px;
+    margin-left: 22px;
+}
+  }
